@@ -46,7 +46,7 @@ O fluxo é simples:
 
 ##
 
-<h2>🖋️FUNCIONALIDADES SEGUNDA VA</h2>
+<h2>🖋️FUNCIONALIDADES SEGUNDA VA.</h2>
 
 <h4>RF006 -  Ranking </h4>
 <h4>RF007 -  Impactos</h4>
